@@ -1,0 +1,188 @@
+/*
+* @Author: Administrator
+* @Date:   2018-11-07 11:07:48
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-11-12 15:02:46
+*/
+header{
+	width: 7.5rem;
+	height: 3rem;
+	/* background: red; */
+	/* display: flex; */
+	background-image: url('../img/xiangpingtu.jpg');
+
+}
+header .title{
+	width: 7.5rem;
+	height: 0.6rem;
+	/* background: yellow; */
+	font-size: 0.4rem;
+}
+header .title h6{
+	display: inline-block;
+	margin-left: 2.5rem;
+}
+header .title .icon-lianjie1{
+	margin-left: 1rem;
+	font-size: 0.4rem;
+}
+header .title .icon-fanhui{
+	margin-left: 0.5rem;
+	font-size: 0.4rem;
+}
+header .title .icon-gengduo{
+	font-size: 0.4rem;
+}
+header .list{
+	width: 100%;
+	height: 2.2rem;
+	/* background: green; */
+	padding: 0.3rem;
+	display: flex;
+	margin-bottom: 0.2rem;
+}
+header .list .trai{
+	width: 1.8rem;
+	height: 1.8rem;
+	/* background: red; */
+	text-align: center;
+	padding-top: 0.1rem;
+}
+header .list .traii{
+	width: 4rem;
+	height: 1.8rem;
+	/* background: orange; */
+	margin-left: 0.3rem;
+}
+header .list .traii ul{
+	font-size: 0.1rem;
+}
+header .list .traii ul li:nth-child(2){
+	color: #3d3c3c;
+}
+header .list .traii ul li:nth-child(4){
+	color: #3d3c3c;
+}
+header .list .traii ul li:nth-child(5){
+	color: #3d3c3c;
+}
+.comm{
+	width: 100%;
+	height: 0.9rem;
+	/* background: red; */
+	display: flex;
+	justify-content: space-around;
+	padding: 0.2rem;
+}
+.comm h6{
+	font-size: 0.3rem;
+	text-align: center;
+}
+.style{
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+}
+.stylee{
+	width: 1.8rem;
+	height: 4rem;
+	/* background: yellow; */
+	margin-left: 0.2rem;
+}
+.stylep{
+	width: 5.3rem;
+	height: 11.5rem;
+	/* background: green; */
+	overflow-y: auto;
+}
+.stylee ul li{
+	font-size: 0.25rem;
+	text-align: center;
+	line-height: 0.5rem;
+	background: #cbc9c9;
+	margin-bottom: 0.1rem;
+}
+.stylep .stylex{
+	width: 5.2rem;
+	height: 2.2rem;
+	/* background: orange;	 */
+	padding-left: 0.1rem;
+	display: flex;
+	box-shadow: 0.02rem 0.02rem 0.05rem #aeadad;
+	margin-top: 0.1rem;
+
+}
+.stylep .stylex .brocc{
+	width: 2.2rem;
+	height: 2.2rem;
+	/* background: #333; */
+	padding: 0.2rem;
+
+}
+.stylep .stylex .brocc img{
+	width: 2rem;
+	height: 1.7rem;
+}
+.stylep .stylex .broc{
+	display: flex;
+	width: 2rem;
+	justify-content: space-between;
+	color: #010101;
+}
+.stylep .stylex .broc p{
+	color: #9d9d9d;
+}
+.stylep .stylex ul{
+	width: 2.8rem;
+	height: 2.2rem;
+	/* background: #0600f5; */
+	font-size: 0.3rem;
+	margin-left: 0.1rem;
+	color: #9d9d9d;
+}
+.stylep .stylex ul li:nth-child(3){
+	color: red;
+	font-size: 0.3rem;
+	margin-top: 0.4rem;
+	position: relative;
+}
+.stylep .stylex ul i{
+	color: red;
+	margin-left: 2rem;
+	position: absolute;
+	margin-top: -0.3rem;
+	font-size: 0.3rem;
+}
+header .fixd{
+	width: 100%;
+	height: 1.5rem;
+	/* background: red; */
+	display: flex;
+	box-shadow: 0.02rem 0.02rem 0.05rem #aeadad;
+}
+header .fixd .ico{
+	width: 2rem;
+	height: 1.5rem;
+	/* background: yellow; */
+}
+header .fixd h3{
+	font-size: 0.3rem;
+	margin-top: 0.45rem;
+}
+header .fixd .pay{
+	width: 2.2rem;
+	height: 1.5rem;
+	/* background: orange; */
+	margin-left: 0.1rem;
+}
+header .fixd .pay h4{
+	font-size: 0.3rem;
+	text-align: center;
+	line-height: 1.5rem;
+	background: #e3e3e3;
+}
+header .fixd .ico .icon-gouwuchekong{
+	font-size: 0.6rem;
+	margin-left: 0.6rem;
+
+}

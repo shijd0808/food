@@ -1,0 +1,139 @@
+/*
+* @Author: Administrator
+* @Date:   2018-11-10 14:22:47
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-11-11 16:45:52
+*/
+header{
+	width: 7.5rem;
+	height: 0.9rem;
+	background: #f19149;
+	padding-top: 0.2rem;
+	padding-left: 0.5rem;
+	margin-bottom: 0.25rem;
+	display: flex;
+}
+.pay{
+	width: 0.6rem;
+	height: 0.6rem;
+	display: flex;
+	padding: 0.1rem;
+	margin-right: 1rem;
+}
+.pay a{
+	font-size: 0.4rem;
+	color: #fff;
+}
+.pay .icon-fanhui{
+	font-size: 0.4rem;
+	color: #fff;
+}
+.mode{
+	width: 3.1rem;
+	height: 0.6rem;
+	/* background: yellow; */
+}
+.mode h6{
+	font-size: 0.2rem;
+	text-align: center;
+	color: #fff;
+}
+nav{
+	width: 7.5rem;
+	height: 2rem;
+	/* background: red; */
+}
+nav h5{
+	font-size: 0.35rem;
+	color: #f09451;
+	line-height: 1rem;
+	margin-left: 0.4rem;
+}
+nav h6{
+	font-size: 0.25rem;
+	margin-left: 0.4rem;
+}
+.payy{
+	width: 7.5rem;
+	height: 2rem;
+	/* background: green; */
+	border-bottom: 0.01rem solid #aea097;
+}
+.payy h6{
+	font-size: 0.2rem;
+	color: #fff;
+	text-align: center;
+}
+.payy .paywx{
+	width: 6.8rem;
+	height: 1.3rem;
+	/* background: yellow; */
+	margin-left: 0.3rem;
+	border-radius: 0.2rem;
+	display: flex;
+	justify-content: center;
+}
+.payy  ul{
+	width: 2.2rem;
+	height: 1rem;
+	/* background: red; */
+	border-radius: 0.3rem;
+	display: flex;
+	justify-content: center;
+	margin-top: 0.2rem;
+	margin-right: 0.2rem;
+}
+.payy  ul li img{
+	width: 0.7rem;
+	height: 0.7rem;
+	margin-top: 0.15rem;
+	margin-right: 0.1rem;
+
+}
+.payy  li{
+	font-size: 0.3rem;
+	line-height: 1rem;
+}
+.othe{
+	width: 7.5rem;
+	height: 5rem;
+	background: #f19149;
+	font-size: 0.15rem;
+	/* display: flex; */
+	/* justify-content: center; */
+	color: #fff;
+}
+.othe h6{
+	text-align: center;
+}
+.othe .bank{
+	width: 7.5rem;
+	height: 4rem;
+	background: #f19149;
+	padding: 0.3rem;
+	display: flex;
+	flex-direction: column;	
+
+}
+.othe .bank i{
+	width: 3rem;
+	height: 0.6rem;
+	/* background: yellow; */
+	font-size: 0.3rem;
+	margin-left: 1rem;
+	margin-top: 0.1rem;
+	border-bottom: 0.02rem solid #7d7774;
+	margin-bottom: 0.1rem;
+}
+.othe .bank img{
+	width: 0.45rem;
+	height: 0.45rem;
+	/* margin-top: 0.1rem; */
+}
+.othe .bank .zhifu i{
+	font-size: 0.3rem;
+	margin-left: 1.8rem;
+	margin-top: 0.2rem;
+	background: red;
+	border-radius: 0.3rem;
+}

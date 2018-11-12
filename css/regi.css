@@ -1,0 +1,136 @@
+/*
+* @Author: Administrator
+* @Date:   2018-11-09 11:37:22
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-11-10 13:43:48
+*/
+header{
+	width: 7.5rem;
+	height: 13rem;
+	background: yellow;
+	background-image: url('../img/beij.jpg')
+}
+header .lan{
+	height: 0.8rem;
+	/* background: red; */
+	padding: 0.1rem;
+	display: flex;
+	justify-content: flex-end;
+}
+header .lan .land{
+	width: 1.3rem;
+	height: 0.6rem;
+	background: orange;
+	border-radius: 0.3rem;
+	color: #fff;
+	margin-top: 0.2rem;
+}
+header .lan .land h6{
+	font-size: 0.3rem;
+	text-align: center;
+	line-height: 0.6rem;
+}
+header .port{
+	height: 2.2rem;
+	/* background: green; */
+	display: flex;
+	justify-content: center;
+}
+header .port .por{
+	width: 2rem;
+	height: 2rem;
+	background: #c58157;
+	background-image: url('../img/touxiang.jpg');
+	background-size: 3rem;
+	background-repeat: no-repeat;
+	background-position: center;
+	transform: rotate(40deg);
+}
+header .denl{
+	width: 7.2rem;
+	height: 4.5rem;
+	background: #ffffff;
+	margin-left: 0.15rem;
+	/* display: flex; */
+	/* justify-content: center; */
+	border-radius: 0.5rem;
+}
+header .denl h5{
+	font-size: 0.3rem;
+	color: #f8c1a2;
+	text-align: center;
+}
+header .denl h5:nth-child(1){
+	margin-left: 0.4rem;
+	margin-top: 0.2rem;
+	color: #ef9147;
+}
+header .page{
+	width: 7.2rem;
+	height: 4.2rem;
+	background: #ffffff;
+	margin-top: 0.1rem;
+	padding-left: 0.4rem;
+	border-radius: 0.3rem;
+}
+header .page .cell{
+	width: 6.4rem;
+	height: 0.6rem;
+	/* background: green; */
+	display: flex;
+	justify-content: left;
+	font-size: 0.1rem;
+	margin-bottom: 0.1rem;
+}
+header .page .cell .icon-huabankaobei{
+	font-size: 0.4rem;
+	margin-top: 0.1rem;
+}
+header .page .cell input{
+	border: none;
+	margin-left: 0.1rem;
+	border-bottom: 0.03rem solid #f19049;
+}
+header .page .cell h6{
+	margin-top: 0.15rem;
+	margin-left: 0.1rem;
+	color: #f29047;
+}
+header .page .cell .icon-suo{
+	font-size: 0.4rem;
+	margin-top: 0.1rem;
+}
+header .page .number{
+	width: 2.3rem;
+	height: 0.7rem;
+	background: #999999;
+	margin-left: 2rem;
+	margin-top: 0.5rem;
+	font-size: 0.45rem;
+	text-align: center;	
+	padding: 0.02rem;
+	border-radius: 0.5rem;
+	color: #fff;
+}
+header .third{
+	height: 1rem;
+	/* background: red; */
+	padding-top: 0.1rem;
+	margin-top: 0.2rem;
+}
+header .third h6{
+	font-size: 0.35rem;
+	text-align: center;
+	color: #f19049;
+}
+header .weix{
+	height: 1rem;
+	/* background: green; */
+	text-align: center;
+	font-size: 0.6rem;
+	color: #f2914a;
+}
+header .weix i{
+	font-size: 0.4rem;
+	/* color: #f2914a; */
+}

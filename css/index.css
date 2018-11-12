@@ -1,0 +1,260 @@
+/*
+* @Author: Administrator
+* @Date:   2018-11-07 11:11:42
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-11-11 16:17:27
+*/
+header{
+	width: 7.5rem;
+	height: 0.9rem;
+	background: #f19149;
+	padding-top: 0.2rem;
+	padding-left: 0.5rem;
+	margin-bottom: 0.25rem;
+
+}
+header .title{
+	width: 0.9rem;
+	background-image: url('../img/saoyisao.png');
+	background-size: 0.4rem 0.4rem;
+	background-repeat: no-repeat;
+	background-position: center top;
+	height: 0.7rem;
+	/* background: blue; */
+	font-size: 0.2rem;
+	float: left;	
+	text-align: center;
+	line-height: 1.1rem;
+
+}
+header input{
+	width: 4.4rem;
+	height: 0.5rem;
+	float: left;
+	border-radius: 0.3rem;
+	background-image: url('../img/sousuo.png');
+	background-size: 0.35rem;
+	background-repeat: no-repeat;
+	background-position: left;
+	position: relative;
+	background-color: #faac72;
+	border: none;
+}
+header  img{
+	width: 0.34rem;
+	height: 0.29rem;
+	position: absolute;
+	left: 5.1rem;
+	top: 0.3rem;
+}
+header .memb{
+	left: 6.2rem;
+	top: 0.2rem;
+}
+header .mem{
+	font-size: 0.12rem;
+	line-height: 0.8rem;
+}
+.banner img{
+	width: 7rem;
+	height: 3rem;
+	display: inline;
+	margin-left: 0.25rem;
+	margin-bottom: 0.35rem;
+}
+nav .vege{
+	width: 7rem;
+	height: 3rem;
+	/* background: red; */
+	margin-left: 0.25rem;
+	padding-left: 0.2rem;
+	margin-bottom: 0.4rem;
+}
+nav .vege .pic{
+	width: 1.08rem;
+	height: 1.33rem;
+	/* background: yellow; */
+	margin-right: 0.5rem;
+	display: inline-block;
+}
+nav .vege .pic h6{
+	font-size: 0.2rem;
+	transform: translateY(-0.3rem);
+	text-align: center;
+	margin-top: 0.1rem;
+}
+nav .vege .pic:nth-child(4){
+	margin-right: 0;
+}
+nav .vege .pic:nth-child(8){
+	margin-right: 0;
+}
+nav .bann{
+	margin-left: 0.3rem;
+	margin-bottom: 0.35rem;
+	margin-top: 0.2rem;
+}
+.recom{
+	width: 7.6rem;
+	height: 0.55rem;
+	/* background: red; */
+}
+.recom .recomm{
+	width: 2.5rem;
+	height: 0.3rem;
+	/* background: yellow; */
+	margin: 0 auto;
+	position: relative;
+}
+.recom h3{
+	font-size: 0.2rem;
+	text-align: center;
+}
+.recom span{
+	font-size: 0.2rem;
+	float: left;
+	color: #d5d5d5;
+	margin-left: 0.1rem;
+	margin-right: 0.1rem;
+}
+.recom p{
+	font-size: 0.2rem;
+	display: inline-block;
+	text-align: center;
+	float: left;	
+}
+.recom .zero{
+	width: 1.17rem;
+	height: 0.9rem;
+	font-size: 1rem;
+	position: absolute;
+	color: #fa9a5d;
+	left: 3rem;
+	top: 11.9rem;
+	margin-bottom: 2rem;
+}
+.busi{
+	width: 7.5rem;
+	height: 0.75rem;
+	/* background: red; */
+	margin-top: 0.8rem;
+	padding-left: 0.3rem;
+	margin-bottom: 1rem;
+}
+.busi .sort{
+	width: 2rem;
+	height: 0.64rem;
+	background: #f5b186;
+	border-radius: 0.3rem;
+	float: left;
+}
+.busi .sort p{
+	font-size: 0.25rem;
+	color: #fcfcfc;
+	text-align: center;
+	line-height: 0.7rem;
+}
+.busi .sortt{
+	width: 1.45rem;
+	height: 0.64rem;
+	/* background: green; */
+	float: left;
+	border-radius: 0.3rem;
+	margin-left: 0.1rem;
+	border: 0.01rem solid #f7c2a0;
+}
+.busi .sortt p{
+	font-size: 0.25rem;
+	color: #f7c2a0;
+	text-align: center;
+	line-height: 0.7rem;
+}
+.dityq{
+	width: 7.5rem;
+	height: 4.5rem;
+}
+.dityq .dity{
+	width: 7.5rem;
+	height: 2.2rem;
+	box-shadow: 0.1rem 0.1rem 0.1rem #494949;
+	margin-bottom: 0.2rem;
+}
+.dity:nth-child(2){
+	margin-bottom: 1.5rem;
+}
+
+
+.dity .dity1 img{
+	width: 3.1rem;
+	height: 2.1rem;
+	/* background: yellow; */
+	display: inline-block;
+	float: left;
+}
+.dity .dity1 .chick{
+	font-size: 0.28rem;
+	display: inline-block;
+	float: left;
+}
+.dity .dity1 .star{
+	width: 1.3rem;
+	height: 0.3rem;
+	/* background: yellow; */
+	float: right;
+	font-size: 0.3rem;
+}
+.dity .dity1 .starr{
+	width: 4.3rem;
+	height: 0.03rem;
+	/* background: green; */
+	float: left;
+	border: 1px dotted #797d82;
+}
+.dity .dity1 h2{
+	font-size: 0.2rem;
+}
+.dity .dity1 h6{
+	font-size: 0.2rem;
+	float: left;
+	color: #454141;
+}
+.dity .time{
+	width: 3.9rem;
+	height: 0.4rem;
+	/* background: orange; */
+	float: left;
+	margin-top: 0.4rem; 
+}
+.dity .time h5{
+	font-size: 0.2rem;
+	float: left;
+	margin-left: 0.1rem;
+}
+.order{
+	width: 7.5rem;
+	height: 1.1rem;
+	background: #fff;
+	padding-left: 0.2rem;
+	position: fixed;
+	bottom: 0;
+
+}
+.order .page{
+	width: 1.2rem;
+	height: 1rem;
+	/* background: red; */
+	display: inline-block;
+	margin-right: 0.2rem;
+
+}
+.order .page h6{
+	font-size: 0.3rem;
+	text-align: center;
+}
+.order .page i{
+	font-size: 0.6rem;
+	/* color: orange; */
+}
+
+
+

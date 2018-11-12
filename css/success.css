@@ -1,0 +1,120 @@
+/*
+* @Author: Administrator
+* @Date:   2018-11-11 14:58:03
+* @Last Modified by:   Administrator
+* @Last Modified time: 2018-11-11 16:07:00
+*/
+header{
+	width: 7.5rem;
+	height: 1.2rem;
+	background: #f19149;
+	display: flex;
+	padding-left: 0.3rem;
+}
+.retur{
+	width: 1.4rem;
+	height: 1.2rem;
+	background: #f19149;
+	display: flex;
+
+}
+.returr{
+	width: 3.9rem;
+	height: 1.2rem;
+	background: #f19149;
+	padding-top: 0.3rem;
+}
+.retur .icon-fanhui{
+	font-size: 0.5rem;
+	margin-top: 0.4rem;
+	margin-left: 0.2rem;
+	color: #fff;
+}
+.returr h6{
+	font-size: 0.25rem;
+	text-align: center;
+	color: #fff;
+}
+.rece{
+	width: 6.6rem;
+	height: 2.3rem;
+	margin: 0.45rem;
+	padding: 0.25rem;
+	display: flex;
+	box-shadow: 0.02rem 0.02rem 0.05rem #f3b688;
+}
+.rece .tuhua{
+	width: 2.2rem;
+	height: 1.5rem;
+	padding: 0.2rem;
+}
+.rece .tuhua img{
+	width: 1.9rem;
+	height: 1.2rem;
+}
+.rece .jieda{
+	width: 4rem;
+	height: 2rem;
+	margin-top: 0.2rem;
+}
+.rece .jieda h6{
+	font-size: 0.3rem;
+}
+.rece .zailai{
+	width: 1.2rem;
+	height: 0.4rem;
+	background: #f19149;
+	margin-top: 0.3rem;
+	margin-left: 0.3rem;
+	border-radius: 0.3rem;
+	font-size: 0.2rem;
+	line-height: 0.4rem;
+	text-align: center;
+	color: #fff;
+}
+.rece .jieda .buxx{
+	display: flex;
+}
+.rece .zhifu{
+	margin-bottom: 0.3rem;
+}
+.shenx{
+	width: 7.5rem;
+	height: 6.5rem;
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+}
+.shenx .qianq{
+	display: flex;
+	/* justify-content: center; */
+}
+.shenx .qianq h5{
+	font-size: 0.2rem;
+	color: red;
+	margin-left: 0.3rem;
+}
+.shenx .shenxd{
+	width: 2.8rem;
+	height: 2.9rem;
+	margin-left: 0.3rem;
+	padding-left: 0.3rem;
+	box-shadow: 0.02rem 0.02rem 0.05rem #f19149;
+}
+.shenx .shenxd img{
+	width: 2.3rem;
+	height: 2rem;
+}
+.shenx .shenxd h6{
+	font-size: 0.2rem;
+}
+.shenx .shenxd li{
+	font-size: 0.2rem;
+	color: red;
+}
+.shenx .shenxd .biny{
+	width: 1.5rem;
+	height: 0.3rem;
+	font-size: 0.15rem;
+	border-bottom: 0.01rem dashed #3b3a3a；
+}
